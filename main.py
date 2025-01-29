@@ -1,7 +1,7 @@
 # Původní dvourozměrné pole s 3 řádky a 3 sloupci
 matrix = [
     [1, 2, 3],
-    [4, 5, 6],
+    [4, 105, 6],
     [7, 8, 9]
 ]
 
